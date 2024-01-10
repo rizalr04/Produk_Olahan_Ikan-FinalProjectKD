@@ -3,30 +3,37 @@ Pada project ini saya melakukan analisis terhadap dataset produk olahan ikan ber
 
 ## Analysis Result:
 1. Wilayah Penghasil Jenis Olahan Ikan Terbanyak Selama 2001-2012
-   ![image](Asset/Analisis 1.png)
+   ![image](https://github.com/rizalr04/Produk_Olahan_Ikan-FinalProjectKD/blob/e0bcbe471a6f47d2ad2bea8c8b19a7a813d65699/Asset/Analisis%201.png)
 
    Selama 2001 sampai 2012 wilayah Maluku - Papua menjadi wilayah penghasil jenis olahan 
-   ikan terbanyak yaitu dengan volume 5.278.232 jenis olahan ikan
+   ikan terbanyak yaitu dengan volume 5.278.232 jenis olahan ikan.
 
-3. Most Streamed 2023 Songs on Spotify in 2023
-   ![image](https://github.com/amandasbrn/spotify-EDA-clustering/assets/66349501/bd84dfe8-88b6-4e5b-ac2c-9ba5ae563dff)
+2. Tahun Berapa dan Jenis Olahan Ikan apa yang paling banyak diproduksi?
+   ![image](https://github.com/rizalr04/Produk_Olahan_Ikan-FinalProjectKD/blob/e0bcbe471a6f47d2ad2bea8c8b19a7a813d65699/Asset/Analisis%202.png)
 
-4. Most Streamed 2023 Songs Performance on Other Music Platforms
-   ![image](https://github.com/amandasbrn/spotify-EDA-clustering/assets/66349501/0476b1c8-c837-4c32-bb32-1fed8ac6b4a7)
+   Pada tahun 2004 sampai 2007 jenis olahan ikan beku menjadi jenis olahan ikan yang paling 
+   banyak diproduksi dan puncaknya adalah pada tahun 2006 dimana jenis olahan ikan beku 
+   berhasil diproduksi sebanyak 717.486 olahan ikan beku.
 
-   Flowers got 1.3B streams but the chart is lower than OMG which got 400k+ streams. After digging deeper, turns out streams and chart have a correlation, but it's not very influential.
+3. Jenis Olahan Ikan Tertinggi di Wilayah Jawa
+   ![image](https://github.com/rizalr04/Produk_Olahan_Ikan-FinalProjectKD/blob/e0bcbe471a6f47d2ad2bea8c8b19a7a813d65699/Asset/Analisis%203.png)
 
-   Insights:
-  
-   a) A strong positive correlation between "streams" and "in_spotify_playlists" suggests that songs with more streams are likely to be included in more playlists. This is a common trend, as popular songs are often added to playlists, further boosting their streams.
-   
-   b) Besides just streams, other factors can influence chart performance, such as rate of change in streams, unique listener counts, engagement, and competition with other songs.
+   Pada wilayah Jawa olahan ikan kering/asin menjadi jenis olahan yang paling banyak 
+   diproduksi yaitu sebanyak 1.528.842 olahan ikan kering/asin dan diikuti dengan jenis 
+   olahan ikan pindang sebanyak 951.845 olahan ikan pindang.
 
-   c) OMG could be more stable at top chart positions hourly and daily or higher engagement rate and unique listeners compared to Flowers. This can lead to higher position at music charts.
+4. TOP 5 Jenis Olahan Ikan
+   ![image](https://github.com/rizalr04/Produk_Olahan_Ikan-FinalProjectKD/blob/e0bcbe471a6f47d2ad2bea8c8b19a7a813d65699/Asset/Analisis%204.png)
 
-   Unfortunately, there is no daily chart information on the dataset, so this is purely my assumption and knowledge of how music platforms charting works.
+   Selama tahun 2001 sampai 2012 jenis olahan ikan beku menjadi jenis olahan ikan yang 
+   paling banyak diproduksi yaitu sebanyak 6.417.528 diikuti olah jenis olahan ikan 
+   kering/asin sebanyak 5.915.315 lalu diikuti jenis olahan ikan pindang, olahan ikan asap 
+   dan olahan ikan lainnya
 
-3. Song popularity across all platforms, spotify stream, and music preferences
-   ![image](https://github.com/amandasbrn/spotify-EDA-clustering/assets/66349501/c45ec75d-9295-4973-9132-400f0a382fae)
-   
+5. TOP 10 Provinsi Penghasil Olahan Ikan
+   ![image](https://github.com/rizalr04/Produk_Olahan_Ikan-FinalProjectKD/blob/e0bcbe471a6f47d2ad2bea8c8b19a7a813d65699/Asset/Analisis%205.png)
 
+   Maluku menjadi provinsi penghasil olahan ikan terbanyak pada tahun 2001 sampai 2012 
+   dimana provinsi maluku menghasilkan 2.719.184 olahan ikan, provinsi Papua menghasilkan 
+   1.765.368 olahan ikan, provinsi Jawa Timur menghasilkan 1.584.248 olahan ikan, dan 
+   provinsi lainnya seperti grafik diatas.
