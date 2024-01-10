@@ -1,4 +1,4 @@
-# Produk Olahan Ikan
+# Produk Olahan Ikan - EDA
 I analyzed Spotify 2023 dataset by using data visualization and machine learning clustering with K-Means and T-SNE
 
 ## Analysis Result:
