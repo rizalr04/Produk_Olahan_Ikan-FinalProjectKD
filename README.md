@@ -3,7 +3,7 @@ Pada project ini saya melakukan analisis terhadap dataset produk olahan ikan ber
 
 ## Analysis Result:
 1. Wilayah Penghasil Jenis Olahan Ikan Terbanyak Selama 2001-2012
-   ![image]("Asset/Analisis 1.png")
+   ![image](Asset/Analisis 1.png)
 
    Selama 2001 sampai 2012 wilayah Maluku - Papua menjadi wilayah penghasil jenis olahan 
    ikan terbanyak yaitu dengan volume 5.278.232 jenis olahan ikan
